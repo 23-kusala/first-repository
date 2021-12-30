@@ -1,1 +1,1 @@
-# first-repository
+this is kusala.
